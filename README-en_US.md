@@ -1,6 +1,6 @@
 # FastCFS -- a high performance general distributed file system for databases, K8s and KVM etc.
 
-English | [Chinese](README-zh_CN.md)
+[English](README-en_US.md) | [中文版](README-zh_CN.md)
 
 ## 1. About
 
